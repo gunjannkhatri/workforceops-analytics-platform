@@ -1,1 +1,6 @@
-
+pandas
+numpy
+faker
+requests
+openpyxl
+pyarrow
